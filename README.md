@@ -2,6 +2,7 @@ Hello there! I'm Anwar Siraj, a multifaceted tech enthusiast with a strong acade
 
 Education:
 
+- BSCS FROM from Federal Government of Virtual University of Pakistan 2025 CONTINUE.
 - B.Tech in Electronics from Indus University of Karachi
 - B.Ed. Elementary (2.5-year) from Federal Government of Virtual University of Pakistan
 - B.A from University of Karachi
@@ -11,6 +12,8 @@ Education:
 
 Skills:
 
+-
+- DS WITH AI
 - Programming Languages: C++, Python
 - Data Science and Machine Learning: Proficient in data analysis, machine learning algorithms, and predictive modeling
 - Data Visualization: Microsoft Power BI, matplotlib, seaborn
@@ -25,7 +28,12 @@ Skills:
 
 Projects:
 
-- Python Projects (Bricks Breaker Game, Web development projects)
+-Human Face Detection
+Facenet-Chris-hems worth-verification
+(Using Kaggle)
+Model: FaceNet (pretrained)
+Dataset: PINS celebrity
+-  Python Projects (Bricks Breaker Game, Web development projects)
 - Language Translator Application
 - Machine Learning Projects
 - Power Bi Projects(Dashboard Design)
@@ -47,3 +55,5 @@ Achievements:
 Contact:
 
 - Feel free to reach out to me via email at Anwarsiraj726@gmail.com or connect on LinkedIn(https://www.linkedin.com/in/anwar-siraj-b2379a289/) . Let's collaborate and innovate together.
++92 315 8956255
+WHATSAPP 
