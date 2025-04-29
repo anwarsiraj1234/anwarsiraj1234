@@ -14,6 +14,7 @@ Skills:
 
 -"I'm creating a robotics project using AI and Python coding."
 - DS WITH AI
+- "With Power BI, I can create interactive visualizations and reports." (DASHBOARD)
 - Programming Languages: C++, Python
 - Data Science and Machine Learning: Proficient in data analysis, machine learning algorithms, and predictive modeling
 - Data Visualization: Microsoft Power BI, matplotlib, seaborn
