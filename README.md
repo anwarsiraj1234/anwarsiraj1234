@@ -12,7 +12,7 @@ Education:
 
 Skills:
 
--
+-"I'm creating a robotics project using AI and Python coding."
 - DS WITH AI
 - Programming Languages: C++, Python
 - Data Science and Machine Learning: Proficient in data analysis, machine learning algorithms, and predictive modeling
