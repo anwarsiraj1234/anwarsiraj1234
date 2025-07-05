@@ -11,7 +11,7 @@ Education:
 - Matriculation from (Gulshane Iqbal)
 
 Skills:
-
+A skilled educator specializing in both Robotics and Computer Science, dedicated to teaching students foundational and advanced concepts in computing, programming, and robotic systems. Combines theoretical instruction with hands-on projects involving coding, electronics, automation, and AI basics. Passionate about preparing students for modern STEM fields and fostering innovation through practical learning.
 -"I'm creating a robotics project using AI and Python coding."
 - DS WITH AI
 - "With Power BI, I can create interactive visualizations and reports." (DASHBOARD)
