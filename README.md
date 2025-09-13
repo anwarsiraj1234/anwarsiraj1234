@@ -2,7 +2,7 @@ Hello there! I'm Anwar Siraj, a multifaceted tech enthusiast with a strong acade
 
 Education:
 
-- BSCS FROM from Federal Government of Virtual University of Pakistan 2025 CONTINUE.
+- BS(DATA SCIENCE) FROM from Federal Government of Virtual University of Pakistan 2025 CONTINUE.
 - B.Tech in Electronics from Indus University of Karachi
 - B.Ed. Elementary (2.5-year) from Federal Government of Virtual University of Pakistan
 - B.A from University of Karachi
